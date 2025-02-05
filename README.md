@@ -10,18 +10,15 @@ ________________________________________________________________________________
 ### CONHECIMENTOS TÉCNICOS:
 
 
-•	Java e Java OO - Intermediário.
+•	Java e Java OO.
 
-•	PHP - Inicial.
+•	PHP.
 
-•	TypeScript - Intermediário.
+•	TypeScript.
 
-•	SQL e PostgreSQL - Intermediário.
+•	SQL e PostgreSQL.
 
-•	Python - Intermediário.
+•	Python.
 
-•	HTML, CSS - Intermediário.
-
-•	Designer Patterns - Intermediário.
-
+•	HTML, CSS.
 __________________________________________________________________________________________________________________________________________________
