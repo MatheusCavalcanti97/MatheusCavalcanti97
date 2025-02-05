@@ -10,11 +10,13 @@ ________________________________________________________________________________
 ### CONHECIMENTOS TÉCNICOS:
 
 
-•	Java e Java OO.
+•	Java, Java OO.
+
+•	JavaScript + Express.
 
 •	PHP.
 
-•	TypeScript.
+•	TypeScript + NestJs.
 
 •	SQL e PostgreSQL.
 
