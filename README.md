@@ -10,7 +10,7 @@
 
 ---
 
-## 💡 <strong>Resumo Profissional</strong>
+## <strong>Resumo Profissional</strong>
 
 Sou formado em Técnico em Informática pelo IFPE, com ênfase em desenvolvimento de sistemas, e atualmente curso o 6º período de Análise e Desenvolvimento de Sistemas.  
 Tenho experiência com desenvolvimento backend e frontend, utilizando tecnologias como **Python**, **TypeScript**, **NestJS**, **Express.js**, **Docker**, **Kafka**, **Kubernetes** e **MongoDB**.  
@@ -19,15 +19,15 @@ Busco oportunidades para aplicar meus conhecimentos e contribuir com soluções 
 
 ---
 
-## 🧠 <strong>Formação Acadêmica</strong>
+## <strong>Formação Acadêmica</strong>
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas — IFPE (2023 - 2027)**  
-  📚 Atualmente no **6º período**
+   Atualmente no **6º período**
 - **Técnico em Informática para Internet — IFPE (2015 - 2021)**
 
 ---
 
-## 🧩 <strong>Experiência Profissional e Acadêmica</strong>
+## <strong>Experiência Profissional e Acadêmica</strong>
 
 ### **1. Projeto de Pesquisa - PIBIC IFPE**
 **Tema:** *STARFISHCLOUD – Implantação do Orquestrador de Contêineres e seus Serviços*  
@@ -80,7 +80,7 @@ Busco oportunidades para aplicar meus conhecimentos e contribuir com soluções 
 
 ---
 
-## ⚙️ <strong>Tecnologias & Ferramentas</strong>
+## <strong>Tecnologias & Ferramentas</strong>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
@@ -102,21 +102,21 @@ Busco oportunidades para aplicar meus conhecimentos e contribuir com soluções 
 
 ---
 
-## 📊 <strong>Linguagens & Tecnologias Mais Utilizadas</strong>
+## <strong>Linguagens & Tecnologias Mais Utilizadas</strong>
 
 <p align="center">
   <table>
     <tr>
       <td align="center">
-        <strong>🧠 Linguagens</strong><br>
+        <strong>Linguagens</strong><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscavalcanti97&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
       </td>
       <td align="center">
-        <strong>📈 Estatísticas Gerais</strong><br>
+        <strong>Estatísticas Gerais</strong><br>
         <img src="https://github-readme-stats.vercel.app/api?username=matheuscavalcanti97&show_icons=true&theme=tokyonight&hide_border=true" />
       </td>
       <td align="center">
-        <strong>🔄 Linguagens em Gráfico Circular</strong><br>
+        <strong>Linguagens em Gráfico Circular</strong><br>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheuscavalcanti97&theme=tokyonight" />
       </td>
     </tr>
@@ -126,7 +126,7 @@ Busco oportunidades para aplicar meus conhecimentos e contribuir com soluções 
 ---
 
 <p align="center">
-  🌱 <em>“Aprendendo sempre, um commit de cada vez.”</em><br><br>
+   <em>“Aprendendo sempre, um commit de cada vez.”</em><br><br>
   <a href="https://www.linkedin.com/in/matheus-cavalcanti-de-lima-7a573223b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
