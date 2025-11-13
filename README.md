@@ -5,7 +5,7 @@
 <strong>Técnico em Informática para Internet</strong> — IFPE<br>
 <strong>Experiência em desenvolvimento backend e frontend</strong>, com foco em <strong>microsserviços, APIs REST, Docker, Kubernetes e Kafka</strong>.<br>
 <strong>Ex-Programador Trainee na Compass.UOL</strong> — Projeto Vivo Telecom.<br>
-<strong>Atualmente Pesquisador PIBIC</strong> — Projeto de Iniciação Científica voltado a soluções tecnológicas aplicadas.
+<strong>Atualmente Pesquisador PIBIC</strong> — Projeto de Iniciação Científica voltado a soluções tecnológicas aplicadas à Implantação do Orquestrador de Contêineres e seus Serviços.
 </p>
 
 ---
