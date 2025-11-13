@@ -1,11 +1,11 @@
-<h1 align="center">🔍 Matheus Cavalcanti de Lima</h1>
+<h1 align="center">Matheus Cavalcanti de Lima</h1>
 
-<p align="center">
-🎓 <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong> — IFPE (6º período)<br>
-💻 <strong>Técnico em Informática para Internet</strong> — IFPE<br>
-👨‍💻 <strong>Experiência em desenvolvimento backend e frontend</strong>, com foco em <strong>microsserviços, APIs REST, Docker, Kubernetes e Kafka</strong>.<br>
-🚀 <strong>Ex-Programador Trainee na Compass.UOL</strong> — Projeto Vivo Telecom.<br>
-☁️ <strong>Atualmente Pesquisador PIBIC</strong> — Projeto de Iniciação Científica voltado a soluções tecnológicas aplicadas.
+<p align="justify">
+<strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong> — IFPE (6º período)<br>
+<strong>Técnico em Informática para Internet</strong> — IFPE<br>
+<strong>Experiência em desenvolvimento backend e frontend</strong>, com foco em <strong>microsserviços, APIs REST, Docker, Kubernetes e Kafka</strong>.<br>
+<strong>Ex-Programador Trainee na Compass.UOL</strong> — Projeto Vivo Telecom.<br>
+<strong>Atualmente Pesquisador PIBIC</strong> — Projeto de Iniciação Científica voltado a soluções tecnológicas aplicadas.
 </p>
 
 ---
